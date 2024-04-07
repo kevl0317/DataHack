@@ -1,4 +1,4 @@
-data/
-train/
-val/
-test/
+data/*
+train*/
+val/*
+test/*
